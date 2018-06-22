@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118701" started-at="2018-05-10T17:12:49Z" finished-at="2018-05-10T17:14:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118701" started-at="2018-05-10T17:12:49Z" finished-at="2018-05-10T17:14:48Z">
+      <class name="MavenDemo.MavenCucumber.CucumberDemo">
+        <test-method status="PASS" signature="User_Enter_userID_and_Password()[pri:0, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="User_Enter_userID_and_Password" duration-ms="12" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Enter_userID_and_Password -->
+        <test-method status="PASS" signature="User_click_on_Login_Button()[pri:0, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="User_click_on_Login_Button" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_click_on_Login_Button -->
+        <test-method status="PASS" signature="user_Login_successful()[pri:0, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="user_Login_successful" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_Login_successful -->
+        <test-method status="PASS" signature="user_unable_to_login()[pri:0, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="user_unable_to_login" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_unable_to_login -->
+        <test-method status="PASS" signature="Browser_is_open()[pri:1, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="Browser_is_open" duration-ms="3671" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_is_open -->
+        <test-method status="PASS" signature="User_navigate_to_Application()[pri:2, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="User_navigate_to_Application" duration-ms="114303" started-at="2018-05-10T22:42:53Z" finished-at="2018-05-10T22:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_navigate_to_Application -->
+        <test-method status="PASS" signature="User_Enter_invalid_userID_and_Password()[pri:3, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="User_Enter_invalid_userID_and_Password" duration-ms="2" started-at="2018-05-10T22:44:47Z" finished-at="2018-05-10T22:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Enter_invalid_userID_and_Password -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:MavenDemo.MavenCucumber.CucumberDemo@1686d1f]" name="closeBrowser" is-config="true" duration-ms="653" started-at="2018-05-10T22:44:47Z" finished-at="2018-05-10T22:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- MavenDemo.MavenCucumber.CucumberDemo -->
+      <class name="MavenDemo.MavenCucumber.RunnerClass">
+        <test-method status="PASS" signature="User_Enter_userID_and_Password1()[pri:0, instance:MavenDemo.MavenCucumber.RunnerClass@1ee9989]" name="User_Enter_userID_and_Password1" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Enter_userID_and_Password1 -->
+        <test-method status="PASS" signature="user_Login_successful1()[pri:0, instance:MavenDemo.MavenCucumber.RunnerClass@1ee9989]" name="user_Login_successful1" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_Login_successful1 -->
+        <test-method status="PASS" signature="user_navigate()[pri:0, instance:MavenDemo.MavenCucumber.RunnerClass@1ee9989]" name="user_navigate" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_navigate -->
+        <test-method status="PASS" signature="user_unable_to_login1()[pri:0, instance:MavenDemo.MavenCucumber.RunnerClass@1ee9989]" name="user_unable_to_login1" duration-ms="1" started-at="2018-05-10T22:42:49Z" finished-at="2018-05-10T22:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_unable_to_login1 -->
+      </class> <!-- MavenDemo.MavenCucumber.RunnerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
